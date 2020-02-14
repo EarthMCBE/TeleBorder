@@ -1,0 +1,8 @@
+name: TeleBorder
+main: com.wyattgahm.teleborder.TeleBorder
+version: "1.0.1"
+api: ["1.0.5"]
+load: POSTWORLD
+author: Wyatt Gahm
+description: Teleports player to oposite end of the world when they reach the end
+prefix: "TeleBorder"
